@@ -1,0 +1,241 @@
+{
+  "_id": "Albarrada Velasco Ibarra (Albarrada)",
+  "_rev": "4-e09421dd17084cbb6c528fed14547ab4",
+  "_sync": {
+    "rev": "4-e09421dd17084cbb6c528fed14547ab4",
+    "new_rev": "9-66fe7e46e7d793b7386c46e5a9d38b14",
+    "flags": 20,
+    "sequence": 239,
+    "recent_sequences": [
+      199,
+      221,
+      222,
+      223,
+      226,
+      227,
+      229,
+      239
+    ],
+    "history": {
+      "revs": [
+        "3-1bd3ff8d441fbe47daa9d45cf835184d",
+        "7-7af7757dbe935c4f7f2bdbb654e76560",
+        "8-a6aeef149f30c4b728a143d602f53715",
+        "6-c1d6ba23f4f94cf9cc3d99a50e6f4b47",
+        "9-66fe7e46e7d793b7386c46e5a9d38b14",
+        "5-94abf4f6bf674da2a307e9d0d9bc9561",
+        "4-e09421dd17084cbb6c528fed14547ab4",
+        "4-4f4dda47304c54cff3f7a6e7324dedbd",
+        "1-2cc1aedef53ee8264398b8ac9b98987b",
+        "2-d789597dc02be2eb4265d0ff1b87696f"
+      ],
+      "parents": [
+        9,
+        3,
+        1,
+        5,
+        2,
+        7,
+        0,
+        0,
+        -1,
+        8
+      ],
+      "deleted": [
+        4
+      ],
+      "bodymap": {
+        "4": "{\"_deleted\":true}"
+      },
+      "channels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "time_saved": "2019-02-22T12:28:34.055461942-05:00"
+  },
+  "animaciones": [
+    {
+      "id": "06ba966b-fe8b-4f75-a144-d167448048e3",
+      "nombreAnimacion": "Entrevista Martin Cevallos",
+      "tipo": "VIDEO",
+      "url": "https://www.youtube.com/embed/-LJ0xkDLeE8"
+    }
+  ],
+  "canton": "La Libertad",
+  "categoria": "Natural",
+  "costoRecursos": [
+    null,
+    null,
+    null,
+    {
+      "costo": 14,
+      "descripcion": "Comida",
+      "id": null,
+      "nombre": null,
+      "recurso": null
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "descripcion": "Cuerpo de agua dulce que crece en invierno y sirve para proveer de agua a la region. Tambien es zona de recreacion.",
+  "direccion": "Tome la via al barrio Velasco Ibarra, zona este de la via hacia punta carnero.",
+  "documentClass": "class es.codigoandroid.pojos.Recursos",
+  "estado": "INACTIVO",
+  "facilidadRecurso": [
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    },
+    {
+      "descripcion": "Super facilidad",
+      "gps": null,
+      "id": null,
+      "tipo": null,
+      "titulo": "Facilidad3"
+    }
+  ],
+  "galeria": [
+    {
+      "autor": "Ivan Sanchez",
+      "autorUsuario": null,
+      "coordenadas": "-2.271746,-80.888160",
+      "descripcion": "Tour sendero acuatico en la albarrada en Invierno.",
+      "etiquetas": [],
+      "fecha": "2017-04-26",
+      "id": "AlbarradaVelascoIbarra1",
+      "reportado": false,
+      "titulo": "Tour Acuatico Albarrada",
+      "url": "https://www.googleapis.com/download/storage/v1/b/guiamovilse_recursos_storage/o/AlbarradaVelascoIbarra1?generation=1508098566702714&alt=media",
+      "votosContra": 1,
+      "votosFavor": 3
+    }
+  ],
+  "horario": "No al momento.",
+  "id": "Albarrada Velasco Ibarra (Albarrada)",
+  "idiomasInformac": [
+    "ESPANOL"
+  ],
+  "imagenPrincipal": {
+    "autor": "Ivan Sanchez",
+    "autorUsuario": null,
+    "coordenadas": "-2.271746,-80.888160",
+    "descripcion": "Tour sendero acuatico en la albarrada en Invierno.",
+    "etiquetas": [],
+    "fecha": "2017-04-26",
+    "id": "AlbarradaVelascoIbarra1",
+    "reportado": false,
+    "titulo": "Tour Acuatico Albarrada",
+    "url": "https://www.googleapis.com/download/storage/v1/b/guiamovilse_recursos_storage/o/AlbarradaVelascoIbarra1?generation=1508098566702714&alt=media",
+    "votosContra": 1,
+    "votosFavor": 3
+  },
+  "infContacto": {
+    "email": "",
+    "facebook": "https://www.facebook.com/pages/Represa-Velasco-Ibarra/205760366581081",
+    "id": null,
+    "instagram": "",
+    "nombreResponsable": null,
+    "telefono": "",
+    "twitter": ""
+  },
+  "informacionGeneral": "Deposito de agua y balneario popular peninsular.",
+  "nombre": "Albarrada Velasco Ibarra (Albarrada)",
+  "opcionesAccesibilidad": null,
+  "opcionesTipoAccesibilidad": [],
+  "parroquia": "La Victoria",
+  "personaEncargada": "Martin Cevallos",
+  "posicion": "-2.2669582395128467, -80.88945738647459",
+  "preguntasF": [],
+  "propietario": "GAD La Libertad",
+  "provincia": "Santa Elena",
+  "ranking": 5,
+  "recomendacion": [
+    null,
+    null,
+    null,
+    {
+      "descripcion": "La Recomendacion1 es muy chevere",
+      "id": null,
+      "idiomasInformac": [],
+      "imagen": null,
+      "puntuacion": 0,
+      "recurso": null,
+      "reportado": false,
+      "titulo": "Recomendacion1",
+      "usuario": null,
+      "votosContra": 0,
+      "votosFavor": 0
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "rev": null,
+  "seguridad": "7:00 - 18:00",
+  "sendero": [],
+  "tipoAtractivo": [
+    "FLORA",
+    "FAUNA"
+  ],
+  "tiposParqueo": [
+    "Moto",
+    "Vehiculo"
+  ]
+}
